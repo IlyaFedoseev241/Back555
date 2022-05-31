@@ -28,7 +28,7 @@
     padding-bottom: 50px;
 }
 body{
-    background:black;
+    background:green;
     height: 100%;
     flex-direction: column;
     display: flex;
